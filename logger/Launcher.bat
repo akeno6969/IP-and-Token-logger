@@ -1,2 +1,3 @@
-start python "%USERPROFILE%\logger\logger.py"
+@echo off
+python logger.py
 pause
